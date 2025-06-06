@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ominipcba.github.io/posts/1d77ade5.html</loc>
+    
+    <lastmod>2025-06-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ominipcba.github.io/posts/4580031f.html</loc>
     
     <lastmod>2025-06-06</lastmod>
@@ -56,6 +65,41 @@
 
   
   <url>
+    <loc>https://ominipcba.github.io/tags/PCB/</loc>
+    <lastmod>2025-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ominipcba.github.io/tags/PCBA/</loc>
+    <lastmod>2025-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ominipcba.github.io/tags/EMS/</loc>
+    <lastmod>2025-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ominipcba.github.io/tags/SMT/</loc>
+    <lastmod>2025-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ominipcba.github.io/tags/Omini/</loc>
+    <lastmod>2025-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ominipcba.github.io/tags/smt/</loc>
     <lastmod>2025-06-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -70,6 +114,13 @@
   </url>
   
 
+  
+  <url>
+    <loc>https://ominipcba.github.io/categories/PCB-Industry/</loc>
+    <lastmod>2025-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://ominipcba.github.io/categories/pcb/</loc>
