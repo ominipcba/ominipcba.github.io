@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ominipcba.github.io/posts/abf66c59.html</loc>
-    
-    <lastmod>2025-06-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://ominipcba.github.io/posts/dff968c1.html</loc>
     
     <lastmod>2025-06-19</lastmod>
@@ -675,13 +666,6 @@
   </url>
   
   <url>
-    <loc>https://ominipcba.github.io/tags/Turnkey-Services/</loc>
-    <lastmod>2025-06-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ominipcba.github.io/tags/Manufacturing/</loc>
     <lastmod>2025-06-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -690,6 +674,13 @@
   
   <url>
     <loc>https://ominipcba.github.io/tags/PCB-Materials/</loc>
+    <lastmod>2025-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ominipcba.github.io/tags/Turnkey-Services/</loc>
     <lastmod>2025-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -767,13 +758,6 @@
   
   <url>
     <loc>https://ominipcba.github.io/tags/hdi/</loc>
-    <lastmod>2025-06-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ominipcba.github.io/tags/PCB-Suppliers/</loc>
     <lastmod>2025-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -887,13 +871,6 @@
   </url>
   
   <url>
-    <loc>https://ominipcba.github.io/categories/pcb/</loc>
-    <lastmod>2025-06-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ominipcba.github.io/categories/PCB-Manufacturing-and-Assembly/Electronic-Design-and-Innovation/</loc>
     <lastmod>2025-06-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -901,7 +878,7 @@
   </url>
   
   <url>
-    <loc>https://ominipcba.github.io/categories/PCB-Suppliers/</loc>
+    <loc>https://ominipcba.github.io/categories/pcb/</loc>
     <lastmod>2025-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
