@@ -2,7 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ominipcba.github.io/posts/9cb958ad.html</loc>
+    <loc>https://ominipcba.github.io/posts/4580031f.html</loc>
+    
+    <lastmod>2025-06-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ominipcba.github.io/posts/8f0b45d.html</loc>
+    
+    <lastmod>2025-06-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ominipcba.github.io/posts/0.html</loc>
+    
+    <lastmod>2025-06-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ominipcba.github.io/posts/dc9e924b.html</loc>
+    
+    <lastmod>2025-06-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ominipcba.github.io/posts/47ab3fb3.html</loc>
     
     <lastmod>2025-06-24</lastmod>
     
@@ -29,25 +65,16 @@
   </url>
   
   <url>
-    <loc>https://ominipcba.github.io/posts/f4279edc.html</loc>
-    
-    <lastmod>2025-06-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ominipcba.github.io/posts/8c7311e.html</loc>
-    
-    <lastmod>2025-06-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://ominipcba.github.io/posts/e6e7247a.html</loc>
+    
+    <lastmod>2025-06-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ominipcba.github.io/posts/f4279edc.html</loc>
     
     <lastmod>2025-06-24</lastmod>
     
@@ -65,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://ominipcba.github.io/posts/47ab3fb3.html</loc>
+    <loc>https://ominipcba.github.io/posts/9cb958ad.html</loc>
     
     <lastmod>2025-06-24</lastmod>
     
@@ -74,16 +101,7 @@
   </url>
   
   <url>
-    <loc>https://ominipcba.github.io/posts/8f0b45d.html</loc>
-    
-    <lastmod>2025-06-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ominipcba.github.io/posts/0.html</loc>
+    <loc>https://ominipcba.github.io/posts/8c7311e.html</loc>
     
     <lastmod>2025-06-24</lastmod>
     
@@ -192,15 +210,6 @@
   
   <url>
     <loc>https://ominipcba.github.io/posts/aafc8fbc.html</loc>
-    
-    <lastmod>2025-06-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ominipcba.github.io/posts/4580031f.html</loc>
     
     <lastmod>2025-06-13</lastmod>
     
@@ -471,7 +480,42 @@
   </url>
   
   <url>
+    <loc>https://ominipcba.github.io/tags/PCB-prototyping/</loc>
+    <lastmod>2025-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ominipcba.github.io/tags/Proto-boards/</loc>
+    <lastmod>2025-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ominipcba.github.io/tags/EMS-services/</loc>
+    <lastmod>2025-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ominipcba.github.io/tags/SMT-assembly/</loc>
+    <lastmod>2025-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ominipcba.github.io/tags/PCB-manufacturing/</loc>
+    <lastmod>2025-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ominipcba.github.io/tags/Turnkey-PCBA/</loc>
     <lastmod>2025-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -506,56 +550,7 @@
   </url>
   
   <url>
-    <loc>https://ominipcba.github.io/tags/PCB-prototyping/</loc>
-    <lastmod>2025-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ominipcba.github.io/tags/Proto-boards/</loc>
-    <lastmod>2025-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ominipcba.github.io/tags/EMS-services/</loc>
-    <lastmod>2025-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ominipcba.github.io/tags/PCB-manufacturing/</loc>
-    <lastmod>2025-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ominipcba.github.io/tags/Turnkey-PCBA/</loc>
-    <lastmod>2025-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ominipcba.github.io/tags/PCB-Assembly/</loc>
-    <lastmod>2025-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ominipcba.github.io/tags/SMT/</loc>
-    <lastmod>2025-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ominipcba.github.io/tags/Turnkey-PCBA-Services/</loc>
     <lastmod>2025-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -570,27 +565,6 @@
   
   <url>
     <loc>https://ominipcba.github.io/tags/turnkey/</loc>
-    <lastmod>2025-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ominipcba.github.io/tags/DFM/</loc>
-    <lastmod>2025-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ominipcba.github.io/tags/manufacturing/</loc>
-    <lastmod>2025-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ominipcba.github.io/tags/Omini/</loc>
     <lastmod>2025-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -612,6 +586,41 @@
   
   <url>
     <loc>https://ominipcba.github.io/tags/EMS-Services/</loc>
+    <lastmod>2025-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ominipcba.github.io/tags/Omini/</loc>
+    <lastmod>2025-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ominipcba.github.io/tags/PCB-Assembly/</loc>
+    <lastmod>2025-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ominipcba.github.io/tags/Turnkey-PCBA-Services/</loc>
+    <lastmod>2025-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ominipcba.github.io/tags/DFM/</loc>
+    <lastmod>2025-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ominipcba.github.io/tags/manufacturing/</loc>
     <lastmod>2025-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -779,13 +788,6 @@
   </url>
   
   <url>
-    <loc>https://ominipcba.github.io/tags/PCB-Materials/</loc>
-    <lastmod>2025-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ominipcba.github.io/tags/High-Speed-PCB/</loc>
     <lastmod>2025-06-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -794,6 +796,27 @@
   
   <url>
     <loc>https://ominipcba.github.io/tags/Rigid-Flex/</loc>
+    <lastmod>2025-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ominipcba.github.io/tags/PCB-Materials/</loc>
+    <lastmod>2025-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ominipcba.github.io/tags/heavy-copper-PCB/</loc>
+    <lastmod>2025-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ominipcba.github.io/tags/FR4-PCB/</loc>
     <lastmod>2025-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -829,20 +852,6 @@
   
   <url>
     <loc>https://ominipcba.github.io/tags/Circuit-Board-Testing/</loc>
-    <lastmod>2025-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ominipcba.github.io/tags/heavy-copper-PCB/</loc>
-    <lastmod>2025-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ominipcba.github.io/tags/FR4-PCB/</loc>
     <lastmod>2025-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -933,20 +942,6 @@
   </url>
   
   <url>
-    <loc>https://ominipcba.github.io/tags/Copper-Thickness/</loc>
-    <lastmod>2025-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ominipcba.github.io/tags/Stackup/</loc>
-    <lastmod>2025-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ominipcba.github.io/tags/Turnkey-Solutions/</loc>
     <lastmod>2025-06-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -955,6 +950,20 @@
   
   <url>
     <loc>https://ominipcba.github.io/tags/Trace-Design/</loc>
+    <lastmod>2025-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ominipcba.github.io/tags/Copper-Thickness/</loc>
+    <lastmod>2025-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ominipcba.github.io/tags/Stackup/</loc>
     <lastmod>2025-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1005,13 +1014,6 @@
   </url>
   
   <url>
-    <loc>https://ominipcba.github.io/categories/PCB-Production/</loc>
-    <lastmod>2025-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ominipcba.github.io/categories/PCB-Design-Prototyping/</loc>
     <lastmod>2025-06-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -1019,14 +1021,7 @@
   </url>
   
   <url>
-    <loc>https://ominipcba.github.io/categories/Electronics-Manufacturing/</loc>
-    <lastmod>2025-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ominipcba.github.io/categories/PCB-Industry/Electronics-Manufacturing/</loc>
+    <loc>https://ominipcba.github.io/categories/PCB-Production/</loc>
     <lastmod>2025-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1040,7 +1035,21 @@
   </url>
   
   <url>
+    <loc>https://ominipcba.github.io/categories/PCB-Industry/Electronics-Manufacturing/</loc>
+    <lastmod>2025-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ominipcba.github.io/categories/PCB-Design/Electronic-Manufacturing/</loc>
+    <lastmod>2025-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ominipcba.github.io/categories/Electronics-Manufacturing/</loc>
     <lastmod>2025-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1103,14 +1112,14 @@
   </url>
   
   <url>
-    <loc>https://ominipcba.github.io/categories/PCB-Technology/Manufacturing/</loc>
+    <loc>https://ominipcba.github.io/categories/PCB-Assembly/</loc>
     <lastmod>2025-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ominipcba.github.io/categories/PCB-Assembly/</loc>
+    <loc>https://ominipcba.github.io/categories/PCB-Design-and-Manufacturing/</loc>
     <lastmod>2025-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1124,7 +1133,7 @@
   </url>
   
   <url>
-    <loc>https://ominipcba.github.io/categories/PCB-Design-and-Manufacturing/</loc>
+    <loc>https://ominipcba.github.io/categories/PCB-Technology/EMS-Provider/</loc>
     <lastmod>2025-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1139,6 +1148,13 @@
   
   <url>
     <loc>https://ominipcba.github.io/categories/pcb/</loc>
+    <lastmod>2025-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ominipcba.github.io/categories/PCB-Technology/Manufacturing/</loc>
     <lastmod>2025-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
